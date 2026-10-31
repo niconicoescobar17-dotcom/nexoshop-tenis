@@ -7,7 +7,7 @@ Landing page estática responsive para presentar y vender los tenis de Nexoshop.
 - `styles.css`: estilos responsive.
 - `script.js`: formulario de pedido y enlace a WhatsApp.
 - `config.js`: número de WhatsApp y nombre del producto.
-- `assets/tenis-producto.jpeg`: fotografía del producto (pendiente de subir al repositorio).
+- `assets/tenis-producto.svg`: ilustración vectorial provisional del producto. La fotografía original se debe incorporar al repositorio antes de publicar.
 
 ## Configuración previa a publicar
 1. En `config.js`, reemplaza el número de ejemplo por el WhatsApp real, con indicativo de país y solo dígitos.
